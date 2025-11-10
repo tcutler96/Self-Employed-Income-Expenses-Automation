@@ -1,5 +1,5 @@
 # Finance Data Automation
-Developed a suite of three integrated Python scripts to automate personal finance management, covering income, expenses, and invoice processing. The system streamlined repetitive financial tracking tasks, reduced errors, and improved data transparency through automated reporting. It demonstrates strong use of Python OOP, file and email automation (IMAP), PDF and CSV parsing, Excel manipulation, data validation, and workflow optimisation.
+Developed a collection of integrated Python scripts to automate personal finance management, covering income, expenses, and invoice processing through automated reporting. The system makes use of file and email automation (IMAP), PDF and CSV parsing, Excel manipulation, and data validation in order to streamline repetitive financial tracking tasks, reducing errors, and improving data transparency.
 
 ## Process Invoices
 Connects securely to an Outlook inbox via IMAP, retrieves emails from predefined senders, extracts attached invoices or reports (PDF/CSV), and saves them in structured folders by financial year and date range.
